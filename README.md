@@ -13,6 +13,8 @@ The following templates are available:
 
 # Usage
 
+Run the following command in the latex_templates folder to initiate the interactive template builder.
 
-
-# Examples
+```
+./build.py
+```
